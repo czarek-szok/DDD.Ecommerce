@@ -4,7 +4,6 @@
 
 ### Important:
 1. This repository contains only implementation of one domain: Sales
-2. Below you will find event storming session for all subdomains discovered
 
 
 ## Product Management
