@@ -15,7 +15,7 @@ The CRM module is responsible for customer management. In this module you can ad
 ## Sales
 1. Customers can make purchases on the e-commerce platform. To make this happen, an order is created to which products are added:
    - There are no limits on the number of products on the order
-   - Orders can only be created for active customers
+   - Orders can only be created for customer not marked as debtor
    - The order contains customer data and information about added products
 
 2.	For customers who have placed orders for a total amount of over PLN 1,000, a standard discount applies: 5%. This discount is valid for all products that are on the order. If the customer has been marked as VIP in the CRM module, then the discount granted is 10%. Discounts cannot be combined.
